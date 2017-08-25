@@ -13,8 +13,11 @@ Caffe test command (run in the container):
 source /opt/DL/caffe-ibm/bin/caffe-activate
 /opt/DL/caffe-ibm/bin/caffe-test
 ```
+[Caffe test output](caffe-test.txt)
+
 Tensorflow test command (run in the container):
 ```
 source /opt/DL/tensorflow/bin/tensorflow-activate
 /opt/DL/tensorflow/bin/tensorflow-test
 ```
+[Tensorflow test output](tensorflow-test.txt)
